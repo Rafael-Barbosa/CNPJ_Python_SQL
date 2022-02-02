@@ -1,6 +1,6 @@
 # CNPJ_Python_SQL
 
-Desenvolvimento de uma pequena aplicação para analisar Dados Públicos CNPJ da Receita Federal e inserir em um Banco de dados 
+Desenvolvimento de uma pequena aplicação para analisar Dados Públicos CNPJ da Receita Federal e para inserir em um Banco de dados 
 
 Os arquivos csv zipados com os dados de CNPJs estão disponíveis em https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/cadastros/consultas/dados-publicos-cnpj
 
