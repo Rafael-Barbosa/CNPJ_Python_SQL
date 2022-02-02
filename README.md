@@ -61,12 +61,13 @@ https://medium.com/totvsdevelopers/entendendo-o-crontab-607bc9f00ed3 (linux)
 
 ## Pontos de melhoria
 
-- Implementar classes,funções para todos os dados da Receita Federal
-- Desenvolver a parte de exportação do banco de dados
-- Otimizar processo de inserção das informações no banco de dados
-- Retirar funções redundantes (melhorar aplicação)
+- Terminar de desenolver a aplicação para processar todos os dados da Receita Federal.
+- Desenvolver a parte de exportação do banco de dados.
+- Otimizar processo de inserção das informações no banco de dados.
+- Retirar funções redundantes (melhorar o código)
 
 ## Contribua 
+
 1 - Fork it
 
 2 - Cria sua feature branch (git checkout -b my-new-feature)
