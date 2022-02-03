@@ -19,13 +19,13 @@ Para fazer o deploy desse projeto rode
 Para fazer o download dos zip da base de dados basta:
 
 ```bash
-  python -m main.py -d
+  python main.py -d
 ```
 
 Caso queira testar o processamento dos dados (parte dos dados)
 
 ```bash
-  python -m main.py -t
+  python main.py -t
 ```
 
 ### :point_right: No entanto você deverá configurar seu mysql :point_left:
